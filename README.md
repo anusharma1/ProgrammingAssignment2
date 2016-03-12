@@ -1,3 +1,4 @@
+This is the README.md file
 ### Introduction
 
 This second programming assignment will require you to write an R
